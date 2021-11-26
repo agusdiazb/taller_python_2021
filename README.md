@@ -16,6 +16,3 @@ Taller dictado en el *XIII Congreso Internacional de Investigación y Práctica 
   - **seaborn**
   - **researchpy**
   - **scipy**
-
-## Download the Database
-
